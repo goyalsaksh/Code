@@ -36,5 +36,6 @@ int main()
         default:
             cout << "Enter valid choice";
         }
+        return 0;
     }
 }
