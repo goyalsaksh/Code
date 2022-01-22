@@ -6,4 +6,5 @@ int main()
     cout << "Enter two numbers :";
     cin >> a >> b;
     cout << "Adition of two numbers:" << (a + b);
+    return 0;
 }
